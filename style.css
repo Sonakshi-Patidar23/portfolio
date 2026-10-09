@@ -1,0 +1,28 @@
+h1{
+    color : bisque;
+    background-color; brown;
+    */
+}
+*{
+     margin: 40;
+padding: 0;
+font-family:Arial ;
+color: aqua;
+}
+/*  id selector*/
+#main-header{
+    color: black;
+    background-color: brown;
+    text-align:center;
+}
+/*class slector*/
+.student{
+    color: green;
+    border: 2px dashed;
+    border-radius:50px ;
+}
+.student p{
+    background-color: aquamarine;
+
+
+} 
